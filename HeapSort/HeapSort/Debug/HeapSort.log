@@ -1,0 +1,4 @@
+﻿  heapSort.cpp
+c:\users\alan\desktop\heapsort\heapsort\heapsort.cpp(6): warning C4101: h: неиспользованная локальная переменная
+  HeapSort.vcxproj -> C:\Users\Alan\Desktop\HeapSort\Debug\HeapSort.exe
+  HeapSort.vcxproj -> C:\Users\Alan\Desktop\HeapSort\Debug\HeapSort.pdb (Partial PDB)

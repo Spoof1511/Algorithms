@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/event.cpp
+iostream
+-
+event.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/event.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/event.h
+iostream
+-
+job.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/job.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/fifo.cpp
+fifo.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/fifo.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/fifo.h
+fstream
+-
+simulator.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/simulator.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/job.cpp
+iostream
+-
+job.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/job.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/job.h
+iostream
+-
+string
+-
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/main.cpp
+iostream
+-
+cstdlib
+-
+stdexcept
+-
+string
+-
+simulator.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/simulator.h
+fifo.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/fifo.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/simulator.cpp
+iostream
+-
+fstream
+-
+simulator.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/simulator.h
+event.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/event.h
+
+C:/Users/Alan/Desktop/Projects C++/Fifo/simulator.h
+queue
+-
+string
+-
+event.h
+C:/Users/Alan/Desktop/Projects C++/Fifo/event.h
+

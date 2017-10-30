@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alan/Desktop/untitled/VAVector1.hpp
+ostream
+-
+iostream
+-
+
+C:/Users/Alan/Desktop/untitled/main.cpp
+cstring
+-
+iostream
+-
+random
+-
+algorithm
+-
+VAVector1.hpp
+C:/Users/Alan/Desktop/untitled/VAVector1.hpp
+

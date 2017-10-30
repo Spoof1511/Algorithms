@@ -1,0 +1,8 @@
+﻿  xipoint.cpp
+c:\users\alan\desktop\prj\src\xipoint.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\prj\src\xipoint.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\prj\src\xipoint.cpp(115): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\prj\src\xipoint.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\prj\src\xipoint.cpp(176): warning C4018: <: несоответствие типов со знаком и без знака
+  Point.vcxproj -> C:\Users\Alan\Desktop\prj\sol\vs12\output\Debug\Point.exe
+  Point.vcxproj -> C:\Users\Alan\Desktop\prj\sol\vs12\output\Debug\Point.pdb (Full PDB)

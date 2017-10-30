@@ -1,0 +1,8 @@
+﻿  SCCSolver.cpp
+c:\users\alan\desktop\poiskkomponentsilnoisvyznosti\poiskkomponentsilnoisvyznosti\sccsolver.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\poiskkomponentsilnoisvyznosti\poiskkomponentsilnoisvyznosti\sccsolver.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Source.cpp
+  PoiskKomponentSilnoiSvyznosti.vcxproj -> C:\Users\Alan\Desktop\PoiskKomponentSilnoiSvyznosti\Debug\PoiskKomponentSilnoiSvyznosti.exe
+  PoiskKomponentSilnoiSvyznosti.vcxproj -> C:\Users\Alan\Desktop\PoiskKomponentSilnoiSvyznosti\Debug\PoiskKomponentSilnoiSvyznosti.pdb (Partial PDB)

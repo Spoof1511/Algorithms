@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src-SafeArray">
+      <UniqueIdentifier>{6a083282-8903-4777-b4f3-21fe5bbb600b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src-tests">
+      <UniqueIdentifier>{a5d82cbf-4ab6-4ad0-921e-09d4af27107e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\src\course.h">
+      <Filter>src-SafeArray</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\safearray.h">
+      <Filter>src-SafeArray</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\safearray.hpp">
+      <Filter>src-SafeArray</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\safearray_test.cpp">
+      <Filter>src-tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\src\subject.cpp">
+      <Filter>src-SafeArray</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\subject_test.cpp">
+      <Filter>src-tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

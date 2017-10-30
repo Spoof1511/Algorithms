@@ -1,0 +1,3 @@
+C:/Users/Alan/Desktop/grid_kek/cmake-build-debug/CMakeFiles/grid_kek.dir
+C:/Users/Alan/Desktop/grid_kek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alan/Desktop/grid_kek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+﻿  q_sort.cpp
+c:\users\alan\desktop\qsort\qsort\q_sort.cpp(7): warning C4101: kek: неиспользованная локальная переменная
+  QSort.vcxproj -> C:\Users\Alan\Desktop\QSort\x64\Debug\QSort.exe
+  QSort.vcxproj -> C:\Users\Alan\Desktop\QSort\x64\Debug\QSort.pdb (Partial PDB)

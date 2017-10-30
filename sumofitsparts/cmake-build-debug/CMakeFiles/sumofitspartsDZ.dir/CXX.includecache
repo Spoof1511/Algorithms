@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alan/Desktop/sumofitspartsDZ/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+parts.h
+C:/Users/Alan/Desktop/sumofitspartsDZ/parts.h
+
+C:/Users/Alan/Desktop/sumofitspartsDZ/parts.cpp
+iostream
+-
+parts.h
+C:/Users/Alan/Desktop/sumofitspartsDZ/parts.h
+
+C:/Users/Alan/Desktop/sumofitspartsDZ/parts.h
+vector
+-
+map
+-
+string
+-
+

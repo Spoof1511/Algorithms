@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alan/Desktop/grid_kek/grid.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+stdexcept
+-
+grid.h
+C:/Users/Alan/Desktop/grid_kek/grid.h
+
+C:/Users/Alan/Desktop/grid_kek/grid.h
+string
+-
+vector
+-
+
+C:/Users/Alan/Desktop/grid_kek/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+grid.h
+C:/Users/Alan/Desktop/grid_kek/grid.h
+

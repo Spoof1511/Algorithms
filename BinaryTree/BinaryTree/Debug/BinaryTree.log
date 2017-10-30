@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\alan\desktop\binarytree\binarytree\source.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\alan\desktop\binarytree\binarytree\source.cpp(53): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void print_node<T>(std::vector<char *,std::allocator<_Ty>> &,BinaryTree<T>::Node *)"
+          with
+          [
+              T=int,
+              _Ty=char *
+          ]
+  c:\users\alan\desktop\binarytree\binarytree\source.cpp(75): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void print_tree<int>(const BinaryTree<int> &)"
+  BinaryTree.vcxproj -> C:\Users\Alan\Desktop\BinaryTree\Debug\BinaryTree.exe
+  BinaryTree.vcxproj -> C:\Users\Alan\Desktop\BinaryTree\Debug\BinaryTree.pdb (Partial PDB)

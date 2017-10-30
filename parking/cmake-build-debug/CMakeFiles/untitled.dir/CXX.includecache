@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alan/Desktop/untitled/car.cpp
+car.h
+C:/Users/Alan/Desktop/untitled/car.h
+
+C:/Users/Alan/Desktop/untitled/car.h
+iostream
+-
+string
+-
+
+C:/Users/Alan/Desktop/untitled/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+string
+-
+stack
+-
+stdexcept
+-
+vector
+-
+algorithm
+-
+car.h
+C:/Users/Alan/Desktop/untitled/car.h
+

@@ -1,0 +1,6 @@
+﻿  subject_test.cpp
+c:\users\alan\desktop\prj\tests\gtest\src\subject_test.cpp(17): fatal error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory
+  safearray_test.cpp
+c:\users\alan\desktop\prj\tests\gtest\src\safearray_test.cpp(17): fatal error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory
+  subject.cpp
+  Создание кода...

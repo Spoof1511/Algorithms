@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\alan\desktop\prj\src\main.cpp(128): warning C4002: слишком много фактических параметров для макроопределения "assert"
+c:\users\alan\desktop\prj\src\safearray.hpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\alan\desktop\prj\src\safearray.hpp(28): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\alan\desktop\prj\src\main.cpp(43): note: см. ссылку на создание экземпляров функции шаблон при компиляции "xi::SafeArray<std::string>::SafeArray(const xi::SafeArray<std::string> &)"
+  c:\users\alan\desktop\prj\src\subject.h(77): note: см. ссылку на создание экземпляров класса шаблон при компиляции "xi::SafeArray<std::string>"
+c:\users\alan\desktop\prj\src\safearray.hpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\alan\desktop\prj\src\safearray.hpp(38): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\alan\desktop\prj\src\main.cpp(65): note: см. ссылку на создание экземпляров функции шаблон при компиляции "xi::SafeArray<std::string> &xi::SafeArray<std::string>::operator =(const xi::SafeArray<std::string> &)"
+  Создание кода...
+  Компиляция...
+  subject.cpp
+  Создание кода...
+  SafeArray.vcxproj -> C:\Users\Alan\Desktop\prj\sol\vs12\output\Debug\SafeArray.exe
+  SafeArray.vcxproj -> C:\Users\Alan\Desktop\prj\sol\vs12\output\Debug\SafeArray.pdb (Full PDB)

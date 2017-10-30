@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\alan\desktop\bellman_ford_alg\bellman_ford_alg\bellman_ford.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\bellman_ford_alg\bellman_ford_alg\bellman_ford.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\bellman_ford_alg\bellman_ford_alg\bellman_ford.cpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan\desktop\bellman_ford_alg\bellman_ford_alg\source.cpp(8): warning C4101: m: неиспользованная локальная переменная
+c:\users\alan\desktop\bellman_ford_alg\bellman_ford_alg\source.cpp(8): warning C4101: n: неиспользованная локальная переменная
+  Bellman_Ford_Alg.vcxproj -> C:\Users\Alan\Desktop\Bellman_Ford_Alg\Debug\Bellman_Ford_Alg.exe
+  Bellman_Ford_Alg.vcxproj -> C:\Users\Alan\Desktop\Bellman_Ford_Alg\Debug\Bellman_Ford_Alg.pdb (Partial PDB)
